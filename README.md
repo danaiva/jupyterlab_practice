@@ -1,1 +1,1 @@
-# jupyterlab_practice
+# jupyterlab_practice repository

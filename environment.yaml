@@ -1,0 +1,9 @@
+name: env_a8
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - python=3.11
+  
+prefix: /opt/miniconda3/envs/env_a8
